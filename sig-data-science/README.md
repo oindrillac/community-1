@@ -15,9 +15,12 @@ Covers all aspects of Data Science and Machine Learning as it pertains to the op
 The [charter](charter.md) defines the scope and governance of the Data Science Special Interest Group.
 
 ## Meetings
+* AI4CI Meeting: [Mondays at 10:30 ET (East Time)](meet.google.com/bxy-puke-vqm) (weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=10:30&tz=ET%20%28East%20Time%29).
+  * [Meeting notes and Agenda](https://docs.google.com/document/d/1OAIeXeRVvRs9NsfvYm8brSej7VAFNkTaE1RHTAWHIts/edit).
 * Data Science SIG meeting: [Wednesdays at 10:00 ET (East Time)](meet.google.com/ufs-hgvi-oni) (bi-weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=10:00&tz=ET%20%28East%20Time%29).
   * [Meeting notes and Agenda](https://docs.google.com/document/d/1KecKMMva2wQxUZFdBpd291q75Z7ATp7F1YihMbuC_xg/edit).
 * Operate First Data Science Community Project Meeting: [Wednesdays at 12:00 ET (East Time)](meet.google.com/ngp-npcx-nws) (weekly). [Convert to your timezone](http://www.thetimezoneconverter.com/?t=12:00&tz=ET%20%28East%20Time%29).
+  * [Meeting notes and Agenda](https://docs.google.com/document/d/19_xPxfsazD6rJfe1aHNjVC9_bKpOfnepsifCZ4GBw8o/edit).
 
 ## Leadership
 
@@ -35,6 +38,10 @@ The Chairs of the SIG run operations and processes governing the SIG.
 ## Subprojects
 
 The following [subprojects][subproject-definition] are owned by sig-data-science:
+### AI4CI - AI Supported Continuous Integration
+[Described below](#ai4ci--ai-supported-continuous-integration)
+- **Owners:**
+  - [aicoe-aiops/ocp-ci-analysis](https://github.com/aicoe-aiops/ocp-ci-analysis/blob/master/OWNERS)
 ### AIOps
 - **Owners:**
   - [open-services-group/community/sig-data-science](https://github.com/open-services-group/community/blob/main/sig-data-science/OWNERS)
@@ -61,5 +68,12 @@ This subproject is responsible for organizing, hosting, promoting and growing th
 The  Operate First Data Science Community aims to embrace the multidisciplinary nature of the current state of AI operations and cloud infrastructure by discussing technical topics relevant to data scientists, software developers, DevOps professionals, statisticians, and the intersection of their work, all in an open and collaborative public platform.
 
 [Project Repository](https://github.com/aicoe-aiops/operate-first-data-science-community)
+
+
+## AI4CI - AI Supported Continuous Integration
+
+This subproject is responsible for developing and maintaining a collection of AIOps tools involving open operations data sources. It is a collection of several initiatives such as data collection from open data platforms, generating and visualizing metrics and KPIs to evaluate the CI data sources, building AI/ML services to support operations, and creating a reproducible workflow around these processes. By making the initial tools and relevant data openly accessible, AI4CI aims to foster collaboration and contributions between data scientists and DevOps engineers.
+
+[Project Repository](https://github.com/aicoe-aiops/ocp-ci-analysis)
 
 <!-- END CUSTOM CONTENT -->

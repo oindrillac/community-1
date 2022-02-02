@@ -34,7 +34,7 @@ When the need arises, a [new SIG can be created](sig-wg-lifecycle.md)
 
 | Name | Label | Chairs | Contact | Meetings |
 |------|-------|--------|---------|----------|
-|[Data Science](sig-data-science/README.md)|data-science|* [Erik Erlandson](https://github.com/erikerlandson), Red Hat<br>* [Michael Clifford](https://github.com/michaelclifford), Red Hat<br>||* Data Science SIG meeting: [Wednesdays at 10:00 ET (East Time) (bi-weekly)](meet.google.com/ufs-hgvi-oni)<br>* Operate First Data Science Community Project Meeting: [Wednesdays at 12:00 ET (East Time) (weekly)](meet.google.com/ngp-npcx-nws)<br>
+|[Data Science](sig-data-science/README.md)|data-science|* [Erik Erlandson](https://github.com/erikerlandson), Red Hat<br>* [Michael Clifford](https://github.com/michaelclifford), Red Hat<br>||* AI4CI Meeting: [Mondays at 10:30 ET (East Time) (weekly)](meet.google.com/bxy-puke-vqm)<br>* Data Science SIG meeting: [Wednesdays at 10:00 ET (East Time) (bi-weekly)](meet.google.com/ufs-hgvi-oni)<br>* Operate First Data Science Community Project Meeting: [Wednesdays at 12:00 ET (East Time) (weekly)](meet.google.com/ngp-npcx-nws)<br>
 
 ### Working Groups
 

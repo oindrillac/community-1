@@ -16,6 +16,13 @@ sigs:
       name: Michael Clifford
       company: Red Hat
   meetings:
+  - description: AI4CI Meeting
+    day: Monday
+    time: "10:30"
+    tz: ET (East Time)
+    frequency: weekly
+    url: meet.google.com/bxy-puke-vqm
+    archive_url: https://docs.google.com/document/d/1OAIeXeRVvRs9NsfvYm8brSej7VAFNkTaE1RHTAWHIts/edit
   - description: Data Science SIG meeting
     day: Wednesday
     time: "10:00"
@@ -35,6 +42,10 @@ sigs:
       github: michaelclifford
       name: Michael Clifford
   subprojects:
+  - name: AI4CI - AI Supported Continuous Integration
+    description: '[Described below](#ai4ci--ai-supported-continuous-integration)'
+    owners:
+    - https://github.com/aicoe-aiops/ocp-ci-analysis/blob/master/OWNERS
   - name: AIOps
     owners:
     - https://raw.githubusercontent.com/open-services-group/community/main/sig-data-science/OWNERS
