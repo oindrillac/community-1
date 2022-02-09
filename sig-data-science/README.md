@@ -70,4 +70,10 @@ This subproject is responsible for supporting the data science efforts of the OS
 
 [OS-Climate Github Organization](https://github.com/os-climate)
 
+## Metrics
+
+This subproject is responsible for measuring and tracking the progress and contribution made across the Open Services group.
+
+[Project Repository](https://github.com/open-services-group/metrics)
+
 <!-- END CUSTOM CONTENT -->
